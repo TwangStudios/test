@@ -1,0 +1,25 @@
+{
+  "files": {
+    "app.js": "/test/static/js/app.aa2b2d30.chunk.js",
+    "app.js.map": "/test/static/js/app.aa2b2d30.chunk.js.map",
+    "runtime~app.js": "/test/static/js/runtime~app.39ceea80.js",
+    "runtime~app.js.map": "/test/static/js/runtime~app.39ceea80.js.map",
+    "static/js/2.44b1538d.chunk.js": "/test/static/js/2.44b1538d.chunk.js",
+    "static/js/2.44b1538d.chunk.js.map": "/test/static/js/2.44b1538d.chunk.js.map",
+    "favicon-16.png": "/test/favicon-16.png",
+    "favicon-32.png": "/test/favicon-32.png",
+    "favicon.ico": "/test/favicon.ico",
+    "index.html": "/test/index.html",
+    "manifest.json": "/test/manifest.json",
+    "serve.json": "/test/serve.json",
+    "static/js/2.44b1538d.chunk.js.LICENSE.txt": "/test/static/js/2.44b1538d.chunk.js.LICENSE.txt",
+    "static/media/TheBaggerLight.png": "/test/static/media/TheBaggerLight.1a8c59ad.png",
+    "static/media/TwangStudios.png": "/test/static/media/TwangStudios.5209b54d.png",
+    "static/media/lilwizard.png": "/test/static/media/lilwizard.c57338c7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.39ceea80.js",
+    "static/js/2.44b1538d.chunk.js",
+    "static/js/app.aa2b2d30.chunk.js"
+  ]
+}
